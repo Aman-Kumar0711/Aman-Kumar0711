@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Aman </h1>
-<p align = "center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height=400px border-radius=10px alt="Programmer"></p>
+<p align = "center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height=400px border-radius=40px alt="Programmer"></p>
 <h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering (Artificial Intelligence) from Institute of Engineering and Technology, Lucknow! </h3>
 
 ---
