@@ -36,14 +36,14 @@
     <img src="https://codeforces.com/codeforces.org/s/17333/images/codeforces-sponsored-by-ton.png" alt="Codeforces"/> 
   </a>
   <a href="https://leetcode.com/amanchahar175" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Pkd0jII9MYPSP9Qw44GlMK4Tsnau_5yW1nbLV14e27JqTOraB9z4zyGaNg&s" alt="Leetcode"/> 
+    <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH8HcGxHruCiS1IAw9dWy8SDgfVUHrlzTDJcZQlmeAo3uEzeGUi9x5GmTQgVZCjQHaCQ&usqp=CAU" alt="Leetcode"/> 
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar0711&layout=compact" height=350px alt="Most Used Languages" height="138px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar0711&layout=compact" height=300px width=650px alt="Most Used Languages" height="138px" />
 </div>
 
 ---
