@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar0711&layout=compact" height=300px width=700px alt="Most Used Languages" height="138px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar0711&layout=compact" height=300px width=900px alt="Most Used Languages" height="138px" />
 </div>
 
 ---
