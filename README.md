@@ -30,7 +30,7 @@
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
   <a href="https://www.codechef.com/users/aman_chahar" target="_blank">
-    <img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height=100px border-radius=50% alt="CodeChef"/> 
+    <img src="https://cdn.codechef.com/images/cc-logo.svg"  alt="CodeChef"/> 
   </a>
   <a href="https://codeforces.com/profile/07_Aman" target="_blank">
     <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces"/> 
