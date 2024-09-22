@@ -21,10 +21,10 @@
 <h2 align="center">Integrated Development Environments</h2>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-logo-icon-download-in-svg-png-gif-file-formats--vs-editore-coding-brand-filled-line-pack-logos-icons-2724650.png?f=webp&w=512" alt="Visual Studio Code"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-logo-icon-download-in-svg-png-gif-file-formats--vs-editore-coding-brand-filled-line-pack-logos-icons-2724650.png?f=webp&w=512" height=100px width=100px alt="Visual Studio Code"/> 
   </a>
   <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/free-sublime-text-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-6-pack-logos-icons-3030365.png?f=webp&w=512" alt="Sublime"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-sublime-text-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-6-pack-logos-icons-3030365.png?f=webp&w=512" height=100px width=100px alt="Sublime"/> 
   </a>
 </p>
 <h2 align="center">Competitive Programming</h2>
