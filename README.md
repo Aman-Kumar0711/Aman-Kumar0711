@@ -36,7 +36,7 @@
     <img src="https://codeforces.com/codeforces.org/s/17333/images/codeforces-sponsored-by-ton.png" alt="Codeforces"/> 
   </a>
   <a href="https://leetcode.com/amanchahar175" target="_blank">
-    <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoH8HcGxHruCiS1IAw9dWy8SDgfVUHrlzTDJcZQlmeAo3uEzeGUi9x5GmTQgVZCjQHaCQ&usqp=CAU" alt="Leetcode"/> 
+    <img src="https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png" alt="Leetcode"/> 
   </a>
 </p>
 
