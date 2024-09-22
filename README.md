@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Aman </h1>
-<p align = "center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height=400px border-radius=40px alt="Programmer"></p>
+<p align = "center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height=400px border-radius=10px alt="Programmer"></p>
 <h3 align = "center"> I am pursuing Bachelor of Technology in Computer Science and Engineering (Artificial Intelligence) from Institute of Engineering and Technology, Lucknow! </h3>
 
 ---
@@ -33,7 +33,7 @@
     <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef"/> 
   </a>
   <a href="https://codeforces.com/profile/07_Aman" target="_blank">
-    <img src="[https://codeforces.com/codeforces.org/s/17333/images/codeforces-sponsored-by-ton.png](https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png)" alt="Codeforces"/> 
+    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces"/> 
   </a>
   <a href="https://leetcode.com/amanchahar175" target="_blank">
     <img src="https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png" alt="Leetcode"/> 
