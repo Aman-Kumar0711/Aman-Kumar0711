@@ -6,14 +6,17 @@
 
 <h2 align="center">Languages</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
+  <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" />
+  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" />
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS3" />
+  <img src="https://cdn-icons-png.flaticon.com/128/15886/15886932.png" alt="React" />
+  <img src="https://cdn-icons-png.flaticon.com/128/15484/15484303.png" alt="Node js" />
 </p>
 <h2 align="center">Database</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" alt="MySQL" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPR4mRS1AdY6vv1z1SyeNscuar6nHM8Cz84Q&s" alt="MongoDB"/>
 </p>
 <h2 align="center">Integrated Development Environments</h2>
 <p align="center"> 
@@ -27,13 +30,13 @@
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
   <a href="https://www.codechef.com/users/aman_chahar" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/> 
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef"/> 
   </a>
   <a href="https://codeforces.com/profile/07_Aman" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/> 
+    <img src="https://codeforces.com/codeforces.org/s/17333/images/codeforces-sponsored-by-ton.png" alt="Codeforces"/> 
   </a>
   <a href="https://leetcode.com/amanchahar175" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Famanchahar175&logo=leetcode&logoColor=yellow" alt="Leetcode"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Pkd0jII9MYPSP9Qw44GlMK4Tsnau_5yW1nbLV14e27JqTOraB9z4zyGaNg&s" alt="Leetcode"/> 
   </a>
 </p>
 
