@@ -30,10 +30,10 @@
 <h2 align="center">Competitive Programming</h2>
 <p align="center"> 
   <a href="https://www.codechef.com/users/aman_chahar" target="_blank">
-    <img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="CodeChef"/> 
+    <img src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height=100px border-radius=50% alt="CodeChef"/> 
   </a>
   <a href="https://codeforces.com/profile/07_Aman" target="_blank">
-    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" height=100px border-radius=50% alt="Codeforces"/> 
+    <img src="https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png" alt="Codeforces"/> 
   </a>
   <a href="https://leetcode.com/amanchahar175" target="_blank">
     <img src="https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png" alt="Leetcode"/> 
