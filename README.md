@@ -33,7 +33,7 @@
     <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef"/> 
   </a>
   <a href="https://codeforces.com/profile/07_Aman" target="_blank">
-    <img src="https://codeforces.com/codeforces.org/s/17333/images/codeforces-sponsored-by-ton.png" height=170px alt="Codeforces"/> 
+    <img src="[https://codeforces.com/codeforces.org/s/17333/images/codeforces-sponsored-by-ton.png](https://img.icons8.com/?size=160&id=jldAN67IAsrW&format=png)" alt="Codeforces"/> 
   </a>
   <a href="https://leetcode.com/amanchahar175" target="_blank">
     <img src="https://img.icons8.com/?size=160&id=9L16NypUzu38&format=png" alt="Leetcode"/> 
